@@ -162,6 +162,6 @@ class Login : AppCompatActivity() {
                 } else {
                     Toast.makeText(this, "Google Sign-In Failed", Toast.LENGTH_SHORT).show()
                 }
-            }
+            } //vvv
     }
 }
